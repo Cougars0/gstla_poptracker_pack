@@ -1,25 +1,17 @@
-# Official EmoTracker pack for the Golden Sun: The Lost Age Randomiser
+# UnOfficial PopTracker pack for the Golden Sun: The Lost Age Randomiser
 
-This tracker for the [Golden Sun: The Lost Age randomiser](https://gs2randomiser.com) is intended for use with the [EmoTracker](https://emotracker.net) software by EmoSaru.
+This tracker for the [Golden Sun: The Lost Age randomiser](https://gs2randomiser.com) is intended for use with the [PopTracker](https://github.com/black-sliver/PopTracker) software by Black Sliver.
 
 ## Requirements
 
-[EmoTracker](https://emotracker.net/download/) is required to use this tracker.
-
-This tracker also includes auto-tracking functionality, which requires BizHawk/EmuHawk v2.4 or lower due to dependency on ConnectorLib for GBA auto-tracking.
+[PopTracker](https://github.com/black-sliver/PopTracker) is required to use this tracker.
 
 ## Installation
 
-The tracker pack is currently not available through EmoTracker's package manager, and thus needs to be installed manually using the following steps:
-
-1. Download the latest version from the [Releases](https://github.com/Karanum/gstla_emotracker_pack/releases) page and place it in the `%USERPROFILE%\Documents\EmoTracker\packs` directory.
-2. If EmoTracker was open during the first step: close and restart EmoTracker.
-3. Check to make sure that the tracker pack appears under `Settings -> Installed Packages -> Other`
+1. Copy or unpack tracker packs to EXEDIR/packs, HOME/PopTracker/packs, Documents/PopTracker/packs or CWD/packs
+2. Use the Load button in the top left corner to load a pack.
 
 ## Usage
-
-To use this tracker pack, open EmoTracker and select this pack under `Settings -> Installed Packages -> Other`.
-Refer to the [EmoTracker Discord server](https://emotracker.net/community/) for information on how to set up auto-tracking.
 
 The pack contains several configuration options for the different randomiser settings. These can be found by clicking the gear icon at the top of the item display.
 The settings are as follows:
@@ -37,8 +29,9 @@ This will be done automatically when using auto-tracking.
 ## Support
 
 For general EmoTracker support and/or issues, please refer to the [EmoTracker Discord server](https://emotracker.net/community/).
+For general PopTracker support and/or issues, please refer to the [PopTracker Discord server](https://discord.com/invite/gwThqMCPgK).
 
-For bugs and issues specific to this tracker pack, you can either open an issue in the [issue tracker](https://github.com/Karanum/gstla_emotracker_pack/issues)
+For bugs and issues specific to this tracker pack, you can either open an issue in the [issue tracker](https://github.com/Cougars0/gstla_poptracker_pack/issues)
 or post it in the `#gs2-rando-discussion` channel of the [Golden Sun Speedrunning Discord](https://discord.com/invite/QWwxrmN).
 
 **Note:** The latest version of ConnectorLib can randomly cause the auto-tracker script to get stuck on an error. 
@@ -56,3 +49,4 @@ so please notify me by commenting on the pull request or through the [Golden Sun
 
 This tracker pack is heavily based on the original Golden Sun: The Lost Age tracker by MarvinXLII.
 While the original is no longer publicly available, a modified version can be found at https://github.com/Karanum/gs2-emotracker-fork.
+This is a modification of Karanum's [Official EmoTracker](https://github.com/Karanum/gstla_emotracker_pack)
