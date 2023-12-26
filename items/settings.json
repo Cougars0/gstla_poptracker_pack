@@ -8,12 +8,24 @@
         "codes": "sett_skips_basic"
     },
     {
+        "name": "Require basic skips",
+        "type": "image",
+        "img": "images/settings/text_skips_basic.png",
+        "codes": "sett_skips_basic_img"
+    },
+    {
         "name": "Require easy OOB",
         "type": "toggle",
         "loop": true,
         "disabled_img": "images/settings/tick_off.png",
         "img": "images/settings/tick_on.png",
         "codes": "sett_skips_oobeasy"
+    },
+    {
+        "name": "Require easy OOB",
+        "type": "image",
+        "img": "images/settings/text_oob_easy.png",
+        "codes": "sett_skips_oobeasy_img"
     },
     {
         "name": "Require hard OOB",
@@ -24,6 +36,12 @@
         "codes": "sett_skips_oobhard"
     },
     {
+        "name": "Require hard OOB",
+        "type": "image",
+        "img": "images/settings/text_oob_hard.png",
+        "codes": "sett_skips_oobhard_img"
+    },
+    {
         "name": "Require maze w/o Growth",
         "type": "toggle",
         "loop": true,
@@ -32,12 +50,24 @@
         "codes": "sett_skips_growth"
     },
     {
+        "name": "Require maze w/o Growth",
+        "type": "image",
+        "img": "images/settings/text_nogrowth.png",
+        "codes": "sett_skips_growth_img"
+    },
+    {
         "name": "Hide yellow checks",
         "type": "toggle",
         "loop": true,
         "disabled_img": "images/settings/tick_off.png",
         "img": "images/settings/tick_on.png",
         "codes": "sett_hide_yellows"
+    },
+    {
+        "name": "Hide yellow checks",
+        "type": "image",
+        "img": "images/settings/text_hide_yellows.png",
+        "codes": "sett_hide_yellows_img"
     },
     {
         "name": "Enable item captures",
@@ -49,12 +79,24 @@
         "codes": "sett_show_captures"
     },
     {
+        "name": "Enable item captures",
+        "type": "image",
+        "img": "images/settings/text_show_captures.png",
+        "codes": "sett_show_captures_img"
+    },
+    {
         "name": "Enable boss logic requirements",
         "type": "toggle",
         "loop": true,
         "disabled_img": "images/settings/tick_off.png",
         "img": "images/settings/tick_on.png",
         "codes": "sett_boss_logic"
+    },
+    {
+        "name": "Enable boss logic requirements",
+        "type": "image",
+        "img": "images/settings/text_boss_logic.png",
+        "codes": "sett_boss_logic_img"
     },
     {
         "name": "Item shuffle mode",
@@ -84,5 +126,11 @@
         "disabled_img": "images/settings/tick_off.png",
         "img": "images/settings/tick_on.png",
         "codes": "sett_major"
+    },
+    {
+        "name": "Show only major locations",
+        "type": "image",
+        "img": "images/settings/text_major_minor.png",
+        "codes": "sett_major_img"
     }
 ]

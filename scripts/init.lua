@@ -24,7 +24,7 @@ Tracker:AddLayouts("layouts/standard_broadcast.json")
 --Tracker:AddLayouts("layouts/horizontal_broadcast.json")
 --Tracker:AddLayouts("layouts/very_horizontal_broadcast.json")
 
-if AUTOTRACKER_TRACK_ITEMS or AUTOTRACKER_TRACK_LOCATIONS then
-    ScriptHost:LoadScript("scripts/autotracking_data.lua")
-    ScriptHost:LoadScript("scripts/autotracking.lua")
-end
+--if AUTOTRACKER_TRACK_ITEMS or AUTOTRACKER_TRACK_LOCATIONS then
+--    ScriptHost:LoadScript("scripts/autotracking_data.lua")
+--    ScriptHost:LoadScript("scripts/autotracking.lua")
+--end

@@ -722,7 +722,7 @@
 							"visibility_rules": ["sett_mode_1,$neg|sett_major"]
 						},
 						{
-							"name": "Cave Left Side",
+							"name": "Cave Left Side ",
 							"short_name": "Cave Left",
 							"access_rules": ["briggs_battle,tremor,lash,pound", "briggs_jailbreak,lash,pound"],
 							"item_count": 1,
@@ -1117,7 +1117,7 @@
 									"visibility_rules": ["sett_mode_1,$neg|sett_major"]
 								},
 								{
-									"name": "Early Isaac Room",
+									"name": "Early Isaac Room ",
 									"short_name": "Entrance",
 									"item_count": 1,
 									"visibility_rules": ["sett_mode_1,sett_major"]
@@ -1218,7 +1218,7 @@
 							"visibility_rules": ["sett_mode_1,$neg|sett_major"]
 						},
 						{
-							"name": "North Screen",
+							"name": "North Screen ",
 							"short_name": "North",
 							"access_rules": ["lash"],
 							"item_count": 1,
@@ -1739,7 +1739,7 @@
 							"visibility_rules": ["sett_mode_1,$neg|sett_major"]
 						},
 						{
-							"name": "Maze Items",
+							"name": "Maze Items ",
 							"short_name": "Maze",
 							"access_rules": ["$neg|sett_hide_yellows,[growth]", "growth", "sett_skips_growth"],
 							"item_count": 1,
@@ -2072,7 +2072,7 @@
 							"visibility_rules": ["sett_mode_1,$neg|sett_major"]
 						},
 						{
-							"name": "Main Room North",
+							"name": "Main Room North ",
 							"short_name": "Main North",
 							"access_rules": ["grind", "{sett_show_captures}"],
 							"capture_item": true,
@@ -2149,7 +2149,7 @@
 							"visibility_rules": ["sett_mode_1,$neg|sett_major"]
 						},
 						{
-							"name": "1F - West Room Ledge",
+							"name": "1F - West Room Ledge ",
 							"short_name": "(1F) West",
 							"access_rules": ["parch,burst", "{sett_show_captures,parch}"],
 							"capture_item": true,
@@ -2158,7 +2158,7 @@
 							"visibility_rules": ["sett_mode_1,sett_major"]
 						},
 						{
-							"name": "1F - East Room Ledge",
+							"name": "1F - East Room Ledge ",
 							"short_name": "(1F) East",
 							"access_rules": ["parch,burst", "{sett_show_captures,parch}"],
 							"capture_item": true,
